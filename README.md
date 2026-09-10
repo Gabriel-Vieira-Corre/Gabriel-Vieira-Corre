@@ -36,25 +36,10 @@ Eu me chamo Gabriel Vieira Correa, tenho 20 anos e sou natural do Rio de Janeiro
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Gabriel-Vieira-Corre&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Vieira-Corre&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)](https://github.com/Gabriel-Vieira-Corre)
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Vieira-Corre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
-  />
-</p>
-
-<br clear="all">
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Vieira-Corre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)](https://github.com/Gabriel-Vieira-Corre)
+   
 
 
 
